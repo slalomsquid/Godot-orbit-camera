@@ -1,0 +1,6 @@
+res://default_env.tres
+res://Player.gd
+res://test.tscn
+res://OrbitCamera.gd
+res://CameraRig.tscn
+res://dummyPlayer.tscn
